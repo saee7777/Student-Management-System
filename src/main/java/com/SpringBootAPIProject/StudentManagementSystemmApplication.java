@@ -8,7 +8,7 @@ public class StudentManagementSystemmApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(StudentManagementSystemmApplication.class, args);
-		System.out.println("welcome..................");
+		System.out.println("................welcome..................");
 	}
 
 }
